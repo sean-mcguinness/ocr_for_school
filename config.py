@@ -1,0 +1,2 @@
+global filepath
+global outstring
